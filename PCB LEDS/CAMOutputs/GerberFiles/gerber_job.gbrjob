@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-04-26T19:15:21Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "01_2019 - PLACA LEDS V1"
+        },
+        "Owner": "Eliana Rodrigues Martins <rm_eliana@yahoo.com.br>",
+        "Size": {
+            "X": 84.5696,
+            "Y": 50.004
+        }
+    }
+}
