@@ -6,5 +6,5 @@ Tutorial Projeto Luminária Girafa
 
 * Como fazer o download dos arquivos?
 
-  Para utilizar os arquivos deste repositório realize o download completo de todos os arquivos na [tela principal](https://github.com/rmeliana/Doc_Luminaria_Girafa). Clique na seta ao lado da palavra **Code** para expandir o menu, em seguida clique em **Download ZIP**.
+  Para utilizar os arquivos deste repositório realize o download completo de todos os arquivos na [tela principal](https://github.com/rmeliana/Doc_Luminaria_Girafa). Clique no botão **Code** para expandir o menu, em seguida clique em **Download ZIP**.
   No arquivo "TUTORIAL LUMINÁRIA GIRAFA.pdf" consta o passo a passo do desenvolvimento, assim como os materiais e ferramentas necessárias. Os hiperlinks nesse documento funcionam apenas no arquivo pdf baixado.
